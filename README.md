@@ -1,4 +1,1 @@
-Hello! I am a student of Information Systems Engineering at Piri Reis University. 
-I have of being the founder and leader of the "Data Science" team within my university's Informatics Club. 
-In February 2023, I was fortunate to be selected to participate in the "Data Engineering" training camp at İstanbul Data Lab.
-I am a dedicated individual who is passionate about learning, deeply interested in research, and highly committed to my field of study.
+Hello, my name is Salih Birdal. I’m a third-year Information System Engineering student at Piri Reis University in Istanbul with a passion for Data Science, Machine Learning, and Web Development. I have practical experience as a Business Analyst at Counttrack and have led innovative projects, including an AI-driven credit evaluation system and successful Kaggle competitions. My technical skills are complemented by leadership roles, such as founding the Data Science Team and serving as President of my university’s IT Club. I am eager to apply my analytical abilities and project management experience to new challenges in the tech industry
